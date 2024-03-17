@@ -2,7 +2,7 @@
  desafio dio rest 
 ## Diagrama de classes
 
-``` Mermaid
+```mermaid
 
 classDiagram
     class City {
