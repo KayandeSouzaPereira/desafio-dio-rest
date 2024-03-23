@@ -44,7 +44,7 @@ classDiagram
 
 ### [Teste a API](https://desafio-dio-rest-production.up.railway.app/swagger-ui/index.html#/)
 
-A API estará disponível por tempo limitado pelo Railway. 
+A API esta no momento parada para evitar custos adicionais. 
 
 
 ## Autor
